@@ -138,17 +138,21 @@ Exemple:
 
 ![image](https://user-images.githubusercontent.com/110727546/215460069-0bdfcf3d-1369-4a86-8f1b-2b3f58f4d7b1.png)
 
-## Practicar:
+## Activitat llistes:
 
-Fes aquesta llista.
+Entrega en un document HTML aquestes 3 llistes:
+
+1. Fes aquesta llista.
 
 <img width="309" height="322" alt="image" src="https://github.com/user-attachments/assets/0bb33fd8-ae45-4d74-af5c-5a238b4bd1a6" />
 
-
-
-Quan acabis fes aquesta llista:
+2. Quan acabis fes aquesta llista de definició:
 
 <img width="344" height="415" alt="image" src="https://github.com/user-attachments/assets/c508839c-6ca7-44d7-9a32-4b88753266ad" />
+
+3. Fes aquest Menú (X és el teu cognom):
+
+<img width="867" height="771" alt="image" src="https://github.com/user-attachments/assets/e6bb64ef-7993-4729-9c6a-118536eb2056" />
 
 
 
