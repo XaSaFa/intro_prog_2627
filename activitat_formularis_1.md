@@ -14,6 +14,8 @@
 
 ## Avaluació de la tasca:
 
+**Heu de ficar el vostre nom al placeholder del nom.**
+
 - Formulari 1 fet (30%).
 - Radio input del formulari 1 funcionen bé (10%)
 - Checkbox input del formulari 1 funcionen bé (10%)
