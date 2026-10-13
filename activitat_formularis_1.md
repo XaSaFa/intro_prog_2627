@@ -9,7 +9,8 @@
 
 # 2.- Fes un formulari el més similar al següent:
 
-<img width="1046" height="832" alt="image" src="https://github.com/user-attachments/assets/102a98ab-224a-4062-9716-1e74a7ee1e23" />
+<img width="466" height="814" alt="image" src="https://github.com/user-attachments/assets/3bfa32bb-7978-4e86-ba0c-965b2ee37f68" />
+
 
 ## Avaluació de la tasca:
 
