@@ -76,6 +76,14 @@ Quan un checkbox està actiu passa la variable "name" amb el seu valor "value".
 
 [Exemple web](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_input_checkbox2)
 
+### ⋆ Fieldset i Legend ⋆
+
+Aquests elements són contenidors d'elements d'un formulari, serveixen per ordenar parts del formulari sota un títol.
+
+<img width="762" height="185" alt="image" src="https://github.com/user-attachments/assets/35395bcf-df65-4c67-b71b-a10ecf202763" />
+
+[Exemple web](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_fieldset)
+
 ### ⋆ list ⋆
 
 List permet escollir un valors d'entre una llista.
