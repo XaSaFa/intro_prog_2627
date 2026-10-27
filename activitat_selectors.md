@@ -36,3 +36,28 @@ Ara crea un document anomenat estils.css i fes que...
   - Fes que el text tingui color vermell i sigui en negreta.
 - Una mica més 
   - Dona al div amb id peu un fons gris clar i cursiva.
+ 
+
+
+
+
+
+p {
+    color: blue;
+    text-decoration: underline;
+}
+
+#titol-principal {
+    color:green;
+    background-color: yellow;
+}
+
+.destacat{
+    color: red;
+    font-weight: bold;
+}
+
+#peu{
+    background-color: lightgray;
+    font-style: italic;
+}
