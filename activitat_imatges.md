@@ -1,6 +1,8 @@
 # Activitat backgroud i imatges
 ## Pràctica: Web Oficial del Club Atlètic Mont-roig
 
+<img width="445" height="449" alt="image" src="https://github.com/user-attachments/assets/d1d724e7-16bc-4c85-8a6a-0aa812f2b132" />
+
 ### Context del Projecte
 El club de futbol local **Club Atlètic Mont-roig** està renovant la seva pàgina web oficial. T'han encarregat dissenyar la secció informativa del club utilitzant **5 targetes visuals** (`div`) que mostrin diferents blocs d'informació de l'equip. 
 
