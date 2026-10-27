@@ -46,6 +46,9 @@ Cadascuna de les 5 caixes ha d'incloure un títol `<h2>` i un paràgraf `<p>` am
    * **Fons:** L'escut oficial del club situat just a la part superior central de la caixa. S'ha de mostrar una sola vegada (sense repetir-se) i el text ha de començar a escriure's a sota de l'escut.
 
 ---
+## Exemple targeta 1
+
+<img width="916" height="216" alt="image" src="https://github.com/user-attachments/assets/c674fc06-5a90-4fd1-ae8c-342116e1e0e8" />
 
 ## Formats d'Entrega
 
