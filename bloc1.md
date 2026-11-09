@@ -51,6 +51,8 @@ Ara per arrencar el programa obrim un terminal i escrivim **code** o a Aplicacio
   - [Activitat text - corregim a classe](activitat_text.md) 
 - [Activitat sudokus](activitat_passatemps.md)
 
+## [Exemple web negoci](exemple.md)
+
 
 
 
