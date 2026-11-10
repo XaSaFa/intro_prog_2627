@@ -63,11 +63,11 @@
         <h1>Fleca Sancho</h1>
     </div>
     
-    <!-- Menú-->
-     <div class="contenidor">
-        <div class="boto"> Inici </div>
-        <div class="boto"> Productes </div>
-        <div class="boto"> Contacte</div>
+   <div class="contenidor">
+        
+        <a href="index.html"> <div class="boto"> Inici </div></a>
+        <a href="productes.html"> <div class="boto"> Productes </div></a>
+        <a href="contacte.html"> <div class="boto active"> Contacte</div></a>
 
      </div>
 
