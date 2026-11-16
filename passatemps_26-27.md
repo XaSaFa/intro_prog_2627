@@ -23,7 +23,7 @@ Heu de crear una web que es digui passatemps.html
 
 - Aquesta web té un títol de pestanya i visible a la pàgina "Sopa de lletres X" on X és el teu cognom.
 - Té un link per tornar a la pàgina anterior.
-- Té una sopa de lletres feta amb HTML i CSS com el de la imatge, el podeu fer amb una taula (mínim 10x10 resolta amb diferents colors):
+- Té una sopa de lletres feta amb HTML i CSS com el de la imatge, el podeu fer amb una taula (mínim 6x6 resolta amb diferents colors):
 
 <img width="774" height="805" alt="image" src="https://github.com/user-attachments/assets/eb18c3a2-866f-4538-809e-fc887432d180" />
 
