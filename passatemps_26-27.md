@@ -3,6 +3,7 @@
 ## passatemps.html
 
 Heu de crear una web que es digui passatemps.html
+Utilitzeu CSS Extern.
 
 - Aquesta pàgina tindrà com a títol de pestanya i visible a la pàgina "Passatemps X", on X és el teu cognom.
 - Hi haurà tres fitxes de passatemps amb una imatge i text:
@@ -29,7 +30,7 @@ Heu de crear una web que es digui passatemps.html
 
 ## passatemps3.html
 
-- Aquesta web té un títol de pestanya i visible a la pàgina "Sudoku de fruites X" on X és el teu cognom.
+- Aquesta web té un títol de pestanya i visible a la pàgina "Sudoku de imatges X" on X és el teu cognom.
 - Té un link per tornar a la pàgina anterior.
 - Té un sudoku fet amb HTML i CSS com el de la imatge, el podeu fer amb una taula i imatges DIFERENTS:
 
