@@ -52,6 +52,7 @@ Ara per arrencar el programa obrim un terminal i escrivim **code** o a Aplicacio
 - [Activitat passatemps](passatemps_26-27.md)
 
 ## [Exemple web negoci](exemple.md)
+## [Plantilles portfoli](https://bootstrapmade.com/bootstrap-portfolio-templates/)
 
 
 
